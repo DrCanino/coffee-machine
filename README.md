@@ -1,2 +1,2 @@
 # coffee-machine
-Hello
+A console-based simulation program that models the operation of an automated coffee machine. The system manages internal resources — water, milk, coffee beans, sugar, disposable cups, and cash balance — and processes user requests for three coffee types: espresso, latte, and cappuccino.
